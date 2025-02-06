@@ -1,0 +1,23 @@
+#div1 {
+    color:white;
+}
+#div1 ul{
+    background-color: #c395ed;
+    list-style-type: none;
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+}
+#div1 li{
+    display: inline-block;
+    margin: 0;
+    padding: 10px;
+}
+
+.Home {
+    background-color: #503d63;
+}
+
+.Introduction {
+    background-color: #503d63;
+}
